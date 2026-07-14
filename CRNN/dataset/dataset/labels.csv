@@ -1,0 +1,7 @@
+filename,city,plate_code,plate_number,ocr_label,full_label,quality,split
+1.PNG,Dubai,DD,55098,DD55098,Dubai-DD-55098,clear,train
+2.PNG,Dubai,Y,94642,Y94642,Dubai-Y-94642,clear,train
+3.PNG,Dubai,CC,25948,CC25948,Dubai-CC-25948,clear,train
+4.PNG,SHarjah,3,38931,338931,SHarjah-3-38931,clear,val
+5.PNG,AbuDhabi,19,60554,1960554,AbuDhabi-19-60554,clear,val
+6.PNG,Dubai,N,70852,N70852,Dubai-N-70852,clear,test
